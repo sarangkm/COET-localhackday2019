@@ -2,7 +2,7 @@
 A list of open source contributors at our college
 
 
-# Joining the list
+# Joining the lis
 To join to the list of contributors you just need to do this simple steps:
 * Fork this project
 * Edit `README.md` inside `docs` folder and add your username & link to your github-profile. Please use this format:
